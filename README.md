@@ -1,2 +1,0 @@
-# Rose
-Atelier_Rose
